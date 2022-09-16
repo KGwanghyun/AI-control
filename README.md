@@ -6,7 +6,7 @@
 * 처음으로 생성하는 첫 파일 입니다.
 * [VIM단축키](https://phoenixnap.com/kb/wp-content/uploads/2021/11/vim-commands-cheat-sheet-by-pnap.pdf)
 
-|아침루틴|                        |저녁루틴|
+|아침루틴|
 |--|
 -  [x] 세수하기
 -  [x] 양치하기
