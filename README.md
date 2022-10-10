@@ -19,12 +19,12 @@ ___
 
  **<나의 한주 시간표>**
  |월|화|수|목|금|
- |--|--|--|--|--|
+ |:--:|:--:|:--:|:--:|:--:|
  |PLC응용실습|AI제어실습|자동제어|디지털메뉴팩쳐링|스마트팩토리개론|
  ||전장설계실습|마이크로프로세서 실습|직업경력개발||
  
- #### 좋아하는과목 - AI제어실습
- ![비주얼스튜디오코드](https://blog.naver.com/song_923/222892031317)
+
+
 
 #### 🥧🥧좋아하는 음식🥧🥧
 
@@ -38,16 +38,22 @@ ___
 
 ![내장탕](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjdfMzAg%2FMDAxNTUzNjYyNDc0NzM1.sT5v0aAaXNKn9xDa-hwxuKXjxD9yLh6MkIjcDNq8fJ8g.FdKjCfzoKJB5K1QvD_rszaUIYChmiUE6TfGhOXdVi88g.JPEG.lala0527%2F20190315_111343.jpg&type=ofullfill340_600_png)
 
-### 놀러가보고싶은 여행지
+### <놀러가보고싶은 여행지>
+
+> ```
 > 리옹
 
+> ```
 > 브리타니
 
+> ```
 > 스트라스부르
 
-그 중 에도 가장 가고싶은곳은 🌟🌟**스위스(스트라스부르)**🌟🌟
+그 중 에도 가장 가고싶은곳은 **🌟스위스(스트라스부르)🌟**
 
 
 ![스위스](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDhfODMg%2FMDAxNjU5OTcwMDM0Mjgy.yxsWkd9c1SS-WtGysaHrc3oaEQqV7irRu-MhMGcVJpgg.6xHTvkzp3HT8wvWLuDzrc6uHFPQDih_466CsirVxPvgg.JPEG.sea4531%2F20220609%25A3%25DF184047.jpg&type=sc960_832)
+
+
 
 
