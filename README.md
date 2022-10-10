@@ -36,10 +36,9 @@ ___
 
 #### 👿👿싫어하는 음식👿👿
 가장 싫어하는 음식 **부.속.품 음식..**
-|이름|사진|
+|천엽/생간|내장탕|
 |--|--|
-|천엽/생간|![천엽/](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMjNfMTc4%2FMDAxNjQyOTM3OTg0Nzcw.ma42j2qmacfWlhlmwF9bQGwMTqMr75Nf3_DQlF_jUI4g.gpeDzHX3TbkU7lCF1bqOH1nQydDQwO2zIflipRralZcg.JPEG.dlgmldms5%2FIMG_3050.jpg&type=sc960_832)|
-|내장탕|![내장탕](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjdfMzAg%2FMDAxNTUzNjYyNDc0NzM1.sT5v0aAaXNKn9xDa-hwxuKXjxD9yLh6MkIjcDNq8fJ8g.FdKjCfzoKJB5K1QvD_rszaUIYChmiUE6TfGhOXdVi88g.JPEG.lala0527%2F20190315_111343.jpg&type=ofullfill340_600_png)|
+|![천엽/](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjAxMjNfMTc4%2FMDAxNjQyOTM3OTg0Nzcw.ma42j2qmacfWlhlmwF9bQGwMTqMr75Nf3_DQlF_jUI4g.gpeDzHX3TbkU7lCF1bqOH1nQydDQwO2zIflipRralZcg.JPEG.dlgmldms5%2FIMG_3050.jpg&type=sc960_832)|![내장탕](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjdfMzAg%2FMDAxNTUzNjYyNDc0NzM1.sT5v0aAaXNKn9xDa-hwxuKXjxD9yLh6MkIjcDNq8fJ8g.FdKjCfzoKJB5K1QvD_rszaUIYChmiUE6TfGhOXdVi88g.JPEG.lala0527%2F20190315_111343.jpg&type=ofullfill340_600_png)|
 
 ### <놀러가 보고 싶은 여행지>
 **리옹**  
@@ -54,7 +53,7 @@ ___
 > ```
 > 내 기준의 가장 한국과 다른 이국적인나라 (꼭 가보고싶다..)
 
-그 중에 도 가장 가고싶은곳은 **🌟스위스(스트라스부르)🌟**
+그 중에서 도 가장 가고싶은곳은 **🌟스위스(스트라스부르)🌟**
 
 
 ![스위스](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDhfODMg%2FMDAxNjU5OTcwMDM0Mjgy.yxsWkd9c1SS-WtGysaHrc3oaEQqV7irRu-MhMGcVJpgg.6xHTvkzp3HT8wvWLuDzrc6uHFPQDih_466CsirVxPvgg.JPEG.sea4531%2F20220609%25A3%25DF184047.jpg&type=sc960_832)
