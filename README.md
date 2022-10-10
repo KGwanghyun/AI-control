@@ -1,4 +1,4 @@
-     # AI-control
+
 
 ### 내가 만든 첫 마크다운 파일입니다.
 
@@ -29,30 +29,34 @@ ___
 #### 🥧🥧좋아하는 음식🥧🥧
 
 가장 좋아하는 **1위** 음식 **계란찜!**
-![계란찜](https://postfiles.pstatic.net/MjAyMjEwMDNfMjU4/MDAxNjY0NzgxMDM1MTAx.26a21wrJmHuV0e9cVB3sBxNVF-dr8SZ4BsXQzIAFAowg.wTFYIeNOtrW0h_jv0TE2BhiL2GeB2nniZpCIg1cEbz8g.JPEG.mingming287/DSC02663.JPG?type=w966)
+|계란찜|
+|--|
+|![계란찜](https://postfiles.pstatic.net/MjAyMjEwMDNfMjU4/MDAxNjY0NzgxMDM1MTAx.26a21wrJmHuV0e9cVB3sBxNVF-dr8SZ4BsXQzIAFAowg.wTFYIeNOtrW0h_jv0TE2BhiL2GeB2nniZpCIg1cEbz8g.JPEG.mingming287/DSC02663.JPG?type=w966)|
 
 #### 👿👿싫어하는 음식👿👿
-가장 싫어하는 음식 **부속품 음식..**
+가장 싫어하는 음식 **부.속.품 음식..**
+|이름|사진|
+|--|--|
+|천엽|![천엽](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fw.namu.la%2Fs%2F01ffdc0c4cd63948e8b58cd74317d3c51bba1533006f08f8571534c0644338cbabcfda6a831a38dd441df744f7c2f6c5d4f4b55c7b31ecda8861b583e72b253fd83e9e42ad5fdbbbf0d95fe095d91b45a5a994a2b4d370625b2d2f3a717ca6bc&type=fff264_180)|
+|내장탕|![내장탕](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjdfMzAg%2FMDAxNTUzNjYyNDc0NzM1.sT5v0aAaXNKn9xDa-hwxuKXjxD9yLh6MkIjcDNq8fJ8g.FdKjCfzoKJB5K1QvD_rszaUIYChmiUE6TfGhOXdVi88g.JPEG.lala0527%2F20190315_111343.jpg&type=ofullfill340_600_png)|
 
-![천엽](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fw.namu.la%2Fs%2F01ffdc0c4cd63948e8b58cd74317d3c51bba1533006f08f8571534c0644338cbabcfda6a831a38dd441df744f7c2f6c5d4f4b55c7b31ecda8861b583e72b253fd83e9e42ad5fdbbbf0d95fe095d91b45a5a994a2b4d370625b2d2f3a717ca6bc&type=fff264_180)
-
-![내장탕](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjdfMzAg%2FMDAxNTUzNjYyNDc0NzM1.sT5v0aAaXNKn9xDa-hwxuKXjxD9yLh6MkIjcDNq8fJ8g.FdKjCfzoKJB5K1QvD_rszaUIYChmiUE6TfGhOXdVi88g.JPEG.lala0527%2F20190315_111343.jpg&type=ofullfill340_600_png)
-
-### <놀러가보고싶은 여행지>
-
-> ```
-> 리옹
+### <놀러가 보고 싶은 여행지>
 
 > ```
-> 브리타니
+> 리옹 - 디저트 음식들이 최고!!
 
 > ```
-> 스트라스부르
+> 브리타니 - 이곳 푸른바다에서 수영하고 싶어!
+
+> ```
+> 스트라스부르 - 내 기준의 가장 한국과 다른 이국적인나라 (꼭 가보고싶다..)
 
 그 중 에도 가장 가고싶은곳은 **🌟스위스(스트라스부르)🌟**
 
 
 ![스위스](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDhfODMg%2FMDAxNjU5OTcwMDM0Mjgy.yxsWkd9c1SS-WtGysaHrc3oaEQqV7irRu-MhMGcVJpgg.6xHTvkzp3HT8wvWLuDzrc6uHFPQDih_466CsirVxPvgg.JPEG.sea4531%2F20220609%25A3%25DF184047.jpg&type=sc960_832)
+
+
 
 
 
