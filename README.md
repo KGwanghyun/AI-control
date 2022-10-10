@@ -27,3 +27,6 @@ ___
  ![비주얼스튜디오코드](https://blog.naver.com/song_923/222892031317)
 
 #### 🥧🥧좋아하는 음식🥧🥧
+
+항상좋아하는 **1위** 음식 **계란찜!**
+![계란찜](https://postfiles.pstatic.net/MjAyMjEwMDNfMjU4/MDAxNjY0NzgxMDM1MTAx.26a21wrJmHuV0e9cVB3sBxNVF-dr8SZ4BsXQzIAFAowg.wTFYIeNOtrW0h_jv0TE2BhiL2GeB2nniZpCIg1cEbz8g.JPEG.mingming287/DSC02663.JPG?type=w966)
