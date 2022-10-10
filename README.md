@@ -41,17 +41,19 @@ ___
 |내장탕|![내장탕](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjdfMzAg%2FMDAxNTUzNjYyNDc0NzM1.sT5v0aAaXNKn9xDa-hwxuKXjxD9yLh6MkIjcDNq8fJ8g.FdKjCfzoKJB5K1QvD_rszaUIYChmiUE6TfGhOXdVi88g.JPEG.lala0527%2F20190315_111343.jpg&type=ofullfill340_600_png)|
 
 ### <놀러가 보고 싶은 여행지>
-
+**리옹**  
 > ```
-> **리옹** - 디저트 음식들이 최고!!
+> 디저트 음식들이 최고!!
 
+**브리타니**
+> ``` 
+> 이곳 푸른바다에서 수영하고 싶어!
+
+**스트라스부르**
 > ```
-> **브리타니** - 이곳 푸른바다에서 수영하고 싶어!
+> 내 기준의 가장 한국과 다른 이국적인나라 (꼭 가보고싶다..)**
 
-> ```
-> **스트라스부르** - 내 기준의 가장 한국과 다른 이국적인나라 (꼭 가보고싶다..)
-
-그 중 에도 가장 가고싶은곳은 **🌟스위스(스트라스부르)🌟**
+그 중에 도 가장 가고싶은곳은 **🌟스위스(스트라스부르)🌟**
 
 
 ![스위스](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDhfODMg%2FMDAxNjU5OTcwMDM0Mjgy.yxsWkd9c1SS-WtGysaHrc3oaEQqV7irRu-MhMGcVJpgg.6xHTvkzp3HT8wvWLuDzrc6uHFPQDih_466CsirVxPvgg.JPEG.sea4531%2F20220609%25A3%25DF184047.jpg&type=sc960_832)
@@ -80,9 +82,10 @@ ___
 |--|
 |![판타지](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130813_108%2Frkdqnrck_1376400980012oUSnE_JPEG%2Fkobis_or_kr_20130811_195135.jpg&type=sc960_832)|
 
-나의 장점
-- 
+
+
 가장 좋아하는 **<명언>**
+- 
 
 ![](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjlfOTEg%2FMDAxNjY0NDQyNzIxMTU0.-MuKDSfWE-OMBSOxW6NGIg7Ui1rXC6cvvxRN2Zo9In0g.23baDbXNjBJd0SOYlu26o0Kyyma2BwfpFnBg9JevCjwg.PNG.seonae62%2FScreenshots%25A3%25DF2022%25A3%25AD09%25A3%25AD24%25A3%25AD07%25A3%25AD34%25A3%25AD34.png&type=sc960_832)
 
